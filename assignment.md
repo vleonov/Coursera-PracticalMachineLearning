@@ -32,7 +32,7 @@ vleonov
 
 #Intro
 
-We will try to predict exercide class, using data recorded from several people using several sensors. We will user `Random Forest Modeling`, which gives us over 99% accuracy on the training set of 75% of the total data.
+We will try to predict exercide class, using data recorded from several people using several sensors. We will user `Random Forest Modeling`, which gives us over 99% accuracy on the training set of 75% of the total data. Moreover, in `Random Forest` there is no need for cross-validation, because it estimated internally, see http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#ooberr
 
 #Prepare the enviroment
 
